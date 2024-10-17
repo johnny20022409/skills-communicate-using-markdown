@@ -8,3 +8,7 @@
   "age": 22
 }
 ```
+- [x] READ.me file is complete
+- [x] learned commits, branches, and headers
+- [x] uploaded first assignment
+- [ ] in process of completing current course.  
